@@ -5,6 +5,7 @@ color-4ln
 
 @http
 get /demo
+get /data
 
 @tables
 data
