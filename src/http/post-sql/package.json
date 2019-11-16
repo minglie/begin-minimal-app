@@ -2,6 +2,8 @@
   "name": "begin-app-post-sql",
   "dependencies": {
     "@architect/functions": "latest",
-    "@begin/data": "latest"
+    "@begin/data": "latest",
+     "ming_node": "^1.5.0",
+    "sqlite3": "4.0.8"
   }
 }
