@@ -2,7 +2,7 @@
 // https://docs.begin.com/en/functions/http/
 //
 // let begin = require('@architect/functions')
-const M=require("M.js");
+const M=require("./M.js");
 
 // HTTP function
 exports.handler = async function http(req) {
