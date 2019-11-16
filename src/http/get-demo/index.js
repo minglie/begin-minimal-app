@@ -9,7 +9,6 @@ hello
 
 // HTTP function
 exports.handler = async function http(req) {
-  M++;
   return {
     headers: {
       'content-type': 'text/html; charset=utf8'
