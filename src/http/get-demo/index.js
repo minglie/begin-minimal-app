@@ -1,8 +1,4 @@
-// Enable secure sessions, express-style middleware, and more:
-// https://docs.begin.com/en/functions/http/
-//
-// let begin = require('@architect/functions')
-let M=1;
+
 let html = `
 hello
 `
