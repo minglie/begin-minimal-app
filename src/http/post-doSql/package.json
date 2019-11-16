@@ -2,6 +2,7 @@
   "name": "begin-app-post-doSql",
   "dependencies": {
     "@architect/functions": "latest",
-    "@begin/data": "latest"
+    "@begin/data": "latest",
+    "sqlite3": "4.0.8"
   }
 }
