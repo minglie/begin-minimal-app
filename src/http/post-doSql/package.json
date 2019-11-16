@@ -2,8 +2,6 @@
   "name": "begin-app-post-doSql",
   "dependencies": {
     "@architect/functions": "latest",
-    "@begin/data": "latest",
-    "sqlite3": "4.0.8",
-    "ming_node": "^1.5.0"
+    "@begin/data": "latest"
   }
 }
