@@ -7,6 +7,7 @@ color-4ln
 get /demo
 get /data
 post /run
+get /demo1
 
 @tables
 data
