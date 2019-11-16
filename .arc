@@ -8,6 +8,7 @@ get /demo
 get /data
 post /run
 get /demo1
+post /sql
 
 @tables
 data
